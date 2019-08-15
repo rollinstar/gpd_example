@@ -1,1 +1,4 @@
 .DS_Store
+maps/output/*
+maps/final/*
+.ipynb_checkpoints/
